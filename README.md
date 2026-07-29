@@ -1,4 +1,4 @@
-# Hi there, I'm eM 👋
+# Hi there, I'm eM
 
 Backend-focused software engineer building AI-powered applications and developer tools.
 
@@ -13,7 +13,7 @@ More often than not, I end up sketching the architecture or building a simplifie
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
 * AI-powered business automation tools
 * Backend APIs
@@ -22,7 +22,7 @@ More often than not, I end up sketching the architecture or building a simplifie
 
 ---
 
-## 🌱 Currently exploring
+## Currently exploring
 
 * Production backend engineering
 * Distributed systems
@@ -33,7 +33,7 @@ More often than not, I end up sketching the architecture or building a simplifie
 
 ---
 
-## 💡 I enjoy talking about
+## I enjoy talking about
 
 * Python & backend development
 * API design
@@ -44,7 +44,7 @@ More often than not, I end up sketching the architecture or building a simplifie
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -68,7 +68,7 @@ Git • GitHub • Linux • Docker (learning)
 
 ---
 
-## 📌 Current Projects
+## Current Projects
 
 * **Nudge** – AI-powered Accounts Receivable Automation platform
 * Exploring backend infrastructure through small, focused projects
@@ -76,12 +76,12 @@ Git • GitHub • Linux • Docker (learning)
 
 ---
 
-## 🤝 Let's connect
+##  Let's connect
 
 If you're building interesting software, exploring developer tools, or enjoy discussing how products are designed and engineered, I'd love to connect.
 
-* 💼 LinkedIn: https://www.linkedin.com/in/maitri-patel21/
-* 📧 Email: maitri.patel215@gmail.com
+*  LinkedIn: https://www.linkedin.com/in/maitri-patel21/
+*  Email: maitri.patel215@gmail.com
 
 ---
 
